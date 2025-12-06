@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rationalkuma4.github.io/'
 languageCode = 'en-us'
 theme = 'hugo-theme-stack'
 title = 'Hugo Theme Stack Starter'
